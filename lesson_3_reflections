@@ -6,4 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 	You want to control what your master is, especially when you are not the only one working on your project.
 	
 
-    
+ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	FORK : you copy the whole project at a given point and you everything you do will ne be in the "main branch" Let say you want to use what have already been developed for another product line. Your commit will not be implemented to the original source of the fork. 
+	CLONE : you copy the whole project on another machine. 
+	BRANCH : youstay on teh same machine but derive your original project for testing a new add on and you are not sure it will be part of the main product. 
+   
